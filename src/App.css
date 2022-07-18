@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  /* background-image: linear-gradient(to right, #649173 , #DBD5A4); */
+  background-color: #A5C9CA;
+  overflow-x: hidden;
+  height: 100vh;
+}
